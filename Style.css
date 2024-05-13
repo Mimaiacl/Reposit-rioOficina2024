@@ -13,3 +13,9 @@ body{
             border-top: 1px solid rgb(77, 74, 74);
         }
 }
+#nome-usuário {
+    font-weight: bold;
+}
+.texto-inglês{
+    font-style: italic;
+}
