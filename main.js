@@ -1,4 +1,7 @@
-alert{("olá mundo"); 
+prompt("Qual o seu nome?");
 
-}
+
+
+
+
 
